@@ -3,3 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    background-image: url(./age-barros-Yx1ZkifiHto-unsplash.jpg);
+    background-position:center;
+    background-size:cover;
+    background-repeat: repeat;
+}
